@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    background-color: skyblue;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40;
+}
+.header{
+    background-color: red;
+
+}
